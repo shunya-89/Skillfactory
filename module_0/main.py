@@ -28,7 +28,7 @@ def game_core_v2(number):
 
 
 def game_core_v3(number):
-    """Бинарный поиск number в промежутке [1, 100]"""
+    """Бинарный поиск числа number в промежутке [1, 100]"""
     left = 1
     right = 100
     count = 0
